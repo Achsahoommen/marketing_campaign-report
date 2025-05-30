@@ -1,11 +1,28 @@
 # marketing_campaign-report
-Key Metrics 
+Key KPIs:
+
 Total Spend: $1.36M
 
-Average Spend per Customer: $605.80
+Avg. Spend: $605.80
 
-Total Customers: 2,000
+Customers: 2,000
 
 Response Rate: 14.91%
 
-Campaign Conversions: 334 customers
+Conversions: 334
+
+Insights:
+
+Top spenders are married and highly educated (Graduates, PhDs).
+
+Best responders to campaigns are aged 51–65.
+
+Spending and tenure increased from 2012 to 2014.
+
+Recommendations:
+
+Target older, educated customers.
+
+Clean up inconsistent data (e.g., “YOLO”, “Absurd” in marital status).
+
+Leverage tenure data for loyalty strategies.
